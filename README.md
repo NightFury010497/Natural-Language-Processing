@@ -23,3 +23,6 @@ Speech recognition,document summarization, machine translation, spam detection, 
  - [Natural Language Processing is Fun!](https://medium.com/@ageitgey/natural-language-processing-is-fun-9a0bff37854e)  
  - [10 Applications of Artificial Neural Networks in Natural Language Processing](https://medium.com/@ageitgey/natural-language-processing-is-fun-9a0bff37854e)  
  - [So, What is NLP?](https://towardsdatascience.com/introduction-to-natural-language-processing-nlp-323cc007df3d)  
+### TODO:
+ - BERT/XLNET on colab on self train dataset
+ - Transformers on colab on self train dataset  
