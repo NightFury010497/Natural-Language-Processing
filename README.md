@@ -10,8 +10,9 @@ Speech recognition,document summarization, machine translation, spam detection, 
 TEXT:The quick brown fox jumps over the lazy dog.     
 Machine Requirement: ['quick', 'brown', 'fox', 'jumps', 'lazy', 'dog']  
 
-### [[Normalization]](https://github.com/NightFury010497/Natural-Language-Processing/blob/master/normalization_sentences.ipynb) of sentence  &rarr; [[Tokenization]](https://github.com/NightFury010497/Natural-Language-Processing/blob/master/tokenization.ipynb)  &rarr; removal of [[Stopwords]](https://github.com/NightFury010497/Natural-Language-Processing/blob/master/stop_words.ipynb) &rarr;  
-### [[Stemming and Lemmatization]](https://github.com/NightFury010497/Natural-Language-Processing/blob/master/stem_lemmization.ipynb) &rarr; [[Part of Speech]](https://github.com/NightFury010497/Natural-Language-Processing/blob/master/part_of_speech_and%20_NER.ipynb) Tagging &rarr; [[Name Entity Recognition]](https://github.com/NightFury010497/Natural-Language-Processing/blob/master/part_of_speech_and%20_NER.ipynb) &rarr; [[Bag of Words TF-IDF]](https://github.com/NightFury010497/Natural-Language-Processing/blob/master/bag_of_words_and%20_TFIDF.ipynb)(Term-Frequency and Inverse Document Frequency)  
+### [[Normalization]](https://github.com/NightFury010497/Natural-Language-Processing/blob/master/normalization_sentences.ipynb) of sentence  &rarr; [[Tokenization]](https://github.com/NightFury010497/Natural-Language-Processing/blob/master/tokenization.ipynb)  &rarr; removal of [[Stopwords]](https://github.com/NightFury010497/Natural-Language-Processing/blob/master/stop_words.ipynb) &rarr;
+### [[Stemming and Lemmatization]](https://github.com/NightFury010497/Natural-Language-Processing/blob/master/stem_lemmization.ipynb) &rarr; [[Part of Speech]](https://github.com/NightFury010497/Natural-Language-Processing/blob/master/part_of_speech_and%20_NER.ipynb) Tagging &rarr;
+### [[Name Entity Recognition]](https://github.com/NightFury010497/Natural-Language-Processing/blob/master/part_of_speech_and%20_NER.ipynb) &rarr; [[Bag of Words TF-IDF]](https://github.com/NightFury010497/Natural-Language-Processing/blob/master/bag_of_words_and%20_TFIDF.ipynb)(Term-Frequency and Inverse Document Frequency)  
 
 
 
