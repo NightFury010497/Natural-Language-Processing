@@ -1,6 +1,6 @@
 <h1>
-Text    : The quick brown fox jumps over the lazy dog.  
-Machine : ['quick', 'brown', 'fox', 'jumps', 'lazy', 'dog']  </h1>
+Text    : The quick brown fox jumps over the lazy dog.  </h1>
+<h1>Machine : ['quick', 'brown', 'fox', 'jumps', 'lazy', 'dog']  </h1>
 <br>
 
 ### What is NLP (Natural Language Processing)?
