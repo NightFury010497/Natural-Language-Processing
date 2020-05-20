@@ -1,7 +1,6 @@
 <h1>
 Text    : The quick brown fox jumps over the lazy dog.  </h1>
 <h1>Machine : ['quick', 'brown', 'fox', 'jumps', 'lazy', 'dog']  </h1>
-<br>
 
 ### What is NLP (Natural Language Processing)?
 Natural language processing (NLP) is a subfield of linguistics, computer science, information engineering, and artificial intelligence concerned with the interactions between computers and human (natural) languages, in particular how to program computers to process and analyze large amounts of natural language data.(as per wikipedia)
